@@ -3,7 +3,7 @@
 struct User
 {
   int id;
-  char username[50];
+  char username[50]; //Komen File
   char password[50];
   int role;
 };
